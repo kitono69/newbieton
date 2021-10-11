@@ -5,3 +5,5 @@ Some other formats that you might see are plain text, reStructuredText (common i
 You can use any text editor. There are plugins for many editors (e.g. Atom, Emacs, Sublime Text, Vim, and Visual Studio Code) that allow you to preview Markdown while you are editing it.
 
 You can also use a dedicated Markdown editor like Typora or an online one like StackEdit or Dillinger. You can even use the editable template below.
+
+this is the end of text
