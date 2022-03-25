@@ -9,5 +9,5 @@ drop_pita = pita.drop(pita.columns[7],axis=1) #ini hapus kolom file info
 sort_pita = drop_pita.sort_values(by=['Level (dBµV/m)']) #sort kolom level dari yang paling kecil
 #print (sort_pita.head(20)) 
 
-hitung_data = pita.shape[0] #hitung jumlah baris
+hitung_data = pita.shape[0]*0.2 #hitung jumlah baris
 print (hitung_data)
